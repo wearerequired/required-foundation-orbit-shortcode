@@ -106,12 +106,12 @@ class REQ_Orbit {
 
         /* Global script options */
         $orbit_script_args = apply_filters(
-            'req_obrit_script_args',
+            'req_orbit_script_args',
             array()
         );
 
         $orbit_script_args = apply_filters(
-            "req_obrit_script_args_{$id}",
+            "req_orbit_script_args_{$id}",
             $orbit_script_args
         );
 
