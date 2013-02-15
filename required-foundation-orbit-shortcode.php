@@ -3,12 +3,12 @@
  * Plugin Name: r+ Orbit Shortcode
  * Plugin URI: http://themes.required.ch/
  * Description: A [orbit] shortcode plugin for the required+ Foundation parent theme and child themes.
- * Version: 0.1.1
+ * Version: 0.1.2
  * Author: required+ Team
  * Author URI: http://required.ch
  *
  * @package   required+ Foundation
- * @version   0.1.1
+ * @version   0.1.2
  * @author    Silvan Hagen <silvan@required.ch>
  * @copyright Copyright (c) 2012, Silvan Hagen
  * @link      http://themes.required.ch/theme-features/shortcodes/
